@@ -62,7 +62,7 @@ class SevenSegment {
 ![alt text](image-4.png)
 
 #### 1.2.5  เพิ่มฟังก์ชัน `DisplayNum1()` ถึง `DisplayNum9()` 
-ใช้ตารางนี้ (https://github.com/Special-Topic-2567/ESP32-Lab06-LED-7Segment-Component?tab=readme-ov-file#%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82-7-%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99) ในการเพิ่มฟังก์ชันแสดงเลข 1 ถึง 9 (ถ้ามีที่ผิด แก้ให้สามารถแสดงผลได้ถูกต้องด้วย)
+ใช้ตารางนี้ [(ตารางความจริง seven segment)](https://github.com/Special-Topic-2567/ESP32-Lab06-LED-7Segment-Component?tab=readme-ov-file#%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82-7-%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99) ในการเพิ่มฟังก์ชันแสดงเลข 1 ถึง 9 (ถ้ามีที่ผิด แก้ให้สามารถแสดงผลได้ถูกต้องด้วย)
 
 ตัวอย่าง code แสดงเลข 1
 ![alt text](image-5.png)
